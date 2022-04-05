@@ -16,3 +16,4 @@ def print_kaart():
     print(map[4])
 
 print_kaart()
+
